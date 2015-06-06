@@ -1,0 +1,17 @@
+.odd{
+  background-color: #F8F8F8;
+}
+.even{
+ background-color:#FFFFFF ;
+}
+b {
+    padding: 20px;
+}
+td {
+    text-align: center;
+    padding: 12px;
+}
+#myTableData td {
+    border: 1px solid #DDDDDD;
+    font-size: larger;
+}
