@@ -3,8 +3,43 @@
 	<head lang="en">
 		<meta charset="UTF-8">
 		<title></title>
+		<link href="styles/oddeven.css" rel="stylesheet" />
 	</head>
 	<body>
-	<script type="text/javascript" rel="script" src="statement.js"></script>
+		<script type="text/javascript" src="script/ExchangeIfGrater.js"></script>
+		<script type="text/javascript" src="DinamicTable/DinamicTable.js"></script>
+		<div id="myform">
+			<a href="EnglishDigit.html">Go to Main</a>
+			<b>Problem 1. Exchange if grater </b>
+			<table>
+				<tr>
+					<td>a</td>
+					<td><input type="text" id="a"></td>
+				</tr>
+				<tr>
+					<td>b</td>
+					<td>
+						<input type="text" id="b">
+						<input type="button" id="add" value="Add" onclick="Javascript:addRowExchangeIfGrater()"></td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+			</table>
+
+		</div>
+
+		<div id="mydata">
+			<b>Result.Problem1</b>
+			<table id="myTableData" cellspacing="0">
+				<tr>
+					<td>&nbsp;</td>
+					<td><b>input</b></td>
+					<td><b>output</b></td>
+				</tr>
+			</table>
+			&nbsp;
+		</div>
 	</body>
 </html>
