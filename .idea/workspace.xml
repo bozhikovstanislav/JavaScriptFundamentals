@@ -2,28 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d952f530-561e-4e62-aae8-3e3a03447a0f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/ConditionalStatement/DinamicTable/DinamicTable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/ConditionalStatement/script/ExchangeIfGrater.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/UsingObject/GroupPeople.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/UsingObject/HasProperty.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/Array/IncreasArray.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/Loop/MinMaxOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/ConditionalStatement/script/MultiplicationSign.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/Loop/NotDevisibalBy3and7.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/Loop/Numbers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/UsingObject/OlanarCoordinate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/UsingObject/RemoveElement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/UsingObject/YoungestPerson.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/ConditionalStatement/script/bigestOfTree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/UsingObject/countWords.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/UsingObject/deepCopy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/Loop/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/Loop/lexicographycaly.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/ConditionalStatement/styles/oddeven.css" />
-      <change type="DELETED" beforePath="C:\Users\Stanislav\Documents\JavaScriptFundamentals\HomeWorks\ConditionalStatement\statement.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HomeWorks/ConditionalStatement/Index.html" afterPath="$PROJECT_DIR$/HomeWorks/ConditionalStatement/Index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HomeWorks/TelerikAcademy-master/Homeworks/JS-FUNDAMENTALS/Using-Objects/groupObjects.js" afterPath="$PROJECT_DIR$/HomeWorks/TelerikAcademy-master/Homeworks/JS-FUNDAMENTALS/Using-Objects/groupObjects.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/ArrayMethods/ArrayMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/ArrayMethodsHW/AverageFemales.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSIzpit2014Zadachi/Cars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/Concat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/Escaping/Escaping.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/ArrayMethods/Fill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/ArrayMethodsHW/GroupPeople.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/IndexOfLastIndexOF.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/Indexator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/ArrayMethodsHW/MakePerson.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/MatchMethod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSIzpit2014Zadachi/Path.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/ArrayMethodsHW/PeopleOfAge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/RegExpres.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/Replace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/Scobi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/Search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/Split.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/StringsConcatenation/StringBuilderinJS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/Substring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSIzpit2014Zadachi/TestOutsideMatrix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/ArrayMethodsHW/UnderagePeople.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/ValueOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/ArrayMethodsHW/YangestPerson.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/ArrayMethods/chaining.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/ArrayMethods/finde.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/ArrayMethods/foreach.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/ArrayMethods/functionOfFunction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/ArrayMethods/isPrime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/replace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/ArrayMethods/sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/trim.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaScriptFundamentals.iws" />
@@ -44,79 +55,98 @@
     <favorites_list name="JavaScriptFundamentals" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.36588237">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/JavaScript-Fundamentals-master/09. Using Objects/README.md">
-              <provider editor-type-id="MarkdownPreviewEditor">
-                <state />
-              </provider>
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-2.188">
-                  <caret line="18" column="24" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="24" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <splitter split-orientation="horizontal" split-proportion="0.52364635">
-          <split-first>
-            <leaf>
-              <file leaf-file-name="YoungestPerson.js" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/HomeWorks/UsingObject/YoungestPerson.js">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state vertical-scroll-proportion="0.0">
-                      <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-                      <folding>
-                        <element signature="n#!!doc" expanded="true" />
-                      </folding>
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file leaf-file-name="deepCopy.js" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/HomeWorks/UsingObject/deepCopy.js">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state vertical-scroll-proportion="0.0">
-                      <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-                      <folding />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file leaf-file-name="GroupPeople.js" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/HomeWorks/UsingObject/GroupPeople.js">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state vertical-scroll-proportion="0.4733728">
-                      <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-                      <folding />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-first>
-          <split-second>
-            <leaf>
-              <file leaf-file-name="groupObjects.js" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/HomeWorks/TelerikAcademy-master/Homeworks/JS-FUNDAMENTALS/Using-Objects/groupObjects.js">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state vertical-scroll-proportion="0.5246548">
-                      <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
-                      <folding />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-second>
-        </splitter>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="Substring.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/Substring.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValueOf.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/ValueOf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringBuilderinJS.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/StringsConcatenation/StringBuilderinJS.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Escaping.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/Escaping/Escaping.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="34" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegExpres.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/RegExpres.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MatchMethod.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/MatchMethod.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="replace.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/replace.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Split.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/Split.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Search.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/Search.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.13651878">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -133,57 +163,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HomeWorks/OperatorsAndExpresions/IndexI.html" />
-        <option value="$PROJECT_DIR$/HomeWorks/OperatorsAndExpresions/operators.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/OperatorsAndExpresions/styles/oddeven.css" />
-        <option value="$PROJECT_DIR$/HomeWorks/OperatorsAndExpresions/oddOrEven.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/OperatorsAndExpresions/DinamicTableJS/oddOrEven.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/OperatorsAndExpresions/index.html" />
-        <option value="$PROJECT_DIR$/HomeWorks/OperatorsAndExpresions/problem2.html" />
-        <option value="$PROJECT_DIR$/HomeWorks/OperatorsAndExpresions/DinamicTableJS/DevidedBy7or5.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/OperatorsAndExpresions/DinamicTableJS/CalculateArea.html" />
-        <option value="$PROJECT_DIR$/HomeWorks/OperatorsAndExpresions/DinamicTableJS/CalculateArea.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/OperatorsAndExpresions/CalculateArea.html" />
-        <option value="$PROJECT_DIR$/HomeWorks/OperatorsAndExpresions/DinamicTableJS/thirdDigit.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/OperatorsAndExpresions/ThirdDigit.html" />
-        <option value="$PROJECT_DIR$/HomeWorks/OperatorsAndExpresions/ThirdBit.html" />
-        <option value="$PROJECT_DIR$/HomeWorks/OperatorsAndExpresions/DinamicTableJS/DinamicTable.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/OperatorsAndExpresions/main.html" />
-        <option value="$PROJECT_DIR$/HomeWorks/OperatorsAndExpresions/DinamicTableJS/thirdBit.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/Function/DinamicTableJS/LastDigitAsWord.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/Function/DinamicTableJS/Reversenumber.html" />
-        <option value="$PROJECT_DIR$/HomeWorks/Function/DinamicTableJS/ReversNumber.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/Function/Reversenumber.html" />
-        <option value="$PROJECT_DIR$/HomeWorks/Function/EnglishDigit.html" />
-        <option value="$PROJECT_DIR$/HomeWorks/Function/OccurrenceOfWord.html" />
-        <option value="$PROJECT_DIR$/HomeWorks/Function/DinamicTableJS/DinamicTable.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/Function/DinamicTableJS/JavascriptTest.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/Function/DinamicTableJS/occeruncOfWord.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/Function/styles/div.css" />
-        <option value="$PROJECT_DIR$/HomeWorks/Function/NumberOfElements.html" />
-        <option value="$PROJECT_DIR$/HomeWorks/Function/DinamicTableJS/CoundDiv.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/Function/DinamicTableJS/count.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/Function/DinamicTableJS/isBigerThenNabour.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/Function/DinamicTableJS/firstLarger.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/Loop/Numbers.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/Loop/NotDevisibalBy3and7.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/Loop/MinMaxOf.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/Loop/lexicographycaly.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/Loop/index.html" />
-        <option value="$PROJECT_DIR$/HomeWorks/ConditionalStatement/DinamicTable/DinamicTable.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/ConditionalStatement/Index.html" />
-        <option value="$PROJECT_DIR$/HomeWorks/ConditionalStatement/script/ExchangeIfGrater.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/ConditionalStatement/script/MultiplicationSign.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/ConditionalStatement/script/bigestOfTree.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/Array/IncreasArray.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/UsingObject/countWords.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/UsingObject/OlanarCoordinate.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/UsingObject/RemoveElement.js" />
-        <option value="$PROJECT_DIR$/HomeWorks/UsingObject/HasProperty.js" />
         <option value="$PROJECT_DIR$/HomeWorks/UsingObject/YoungestPerson.js" />
         <option value="$PROJECT_DIR$/HomeWorks/UsingObject/deepCopy.js" />
         <option value="$PROJECT_DIR$/HomeWorks/TelerikAcademy-master/Homeworks/JS-FUNDAMENTALS/Using-Objects/groupObjects.js" />
         <option value="$PROJECT_DIR$/HomeWorks/UsingObject/GroupPeople.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/isPrime.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/functionOfFunction.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/reduce.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/ArrayMap.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/sort.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/chaining.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/ArrayMethodsHW/MakePerson.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/Fill.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/finde.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/ArrayMethodsHW/PeopleOfAge.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/reduce_Filter.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/foreach.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/ArrayMethodsHW/UnderagePeople.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/ArrayMethodsHW/AverageFemales.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/ArrayMethodsHW/YangestPerson.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/ArrayMethodsHW/GroupPeople.js" />
+        <option value="$PROJECT_DIR$/JSIzpit2014Zadachi/Cars.js" />
+        <option value="$PROJECT_DIR$/JSIzpit2014Zadachi/TestOutsideMatrix.js" />
+        <option value="$PROJECT_DIR$/JSIzpit2014Zadachi/Path.js" />
+        <option value="$PROJECT_DIR$/OtceneniDOmashni/OperatorsAndExpresion/Domashno1/Homework 2/Problem 1/new-1.html" />
+        <option value="$PROJECT_DIR$/OtceneniDOmashni/OperatorsAndExpresion/Domashno2/Problem 1 Odd or Even/OddOrEven.js" />
+        <option value="$PROJECT_DIR$/OtceneniDOmashni/OperatorsAndExpresion/Domashno3/02. OperatorsAndExpressions-Homework/02. OperatorsAndExpressions-Homework/02. DivisionBy7And5/02. DivisionBy7And5.html" />
+        <option value="$PROJECT_DIR$/OtceneniDOmashni/OperatorsAndExpresion/Domashno3/02. OperatorsAndExpressions-Homework/02. OperatorsAndExpressions-Homework/03. CalculateRectangleArea/03. CalculateRectangleArea.html" />
+        <option value="$PROJECT_DIR$/OtceneniDOmashni/ConditionalStatements/Domashno1/Problem 1 Exchange if greater/ExchangeIfGreater.js" />
+        <option value="$PROJECT_DIR$/OtceneniDOmashni/ConditionalStatements/Domashno1/Problem 8 Number as words/NumberAsWords.js" />
+        <option value="$PROJECT_DIR$/OtceneniDOmashni/Arrays/Domashno1/HW5JS/1. Increase array members/scripts/JavaScript.js" />
+        <option value="$PROJECT_DIR$/OtceneniDOmashni/UsingObjects/Domashno1/JS Using objects/Problem 1. Planar coordinates.js" />
+        <option value="$PROJECT_DIR$/OtceneniDOmashni/MethodsArray/Domashno1/09. ArrayMethods/ArrayMethods/01-06.MakePerson/script/exercise-solution.js" />
+        <option value="$PROJECT_DIR$/OtceneniDOmashni/MethodsArray/Domashno2/JS-ArrayMethods/ArrayMethods/scripts/script.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/Indexator.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/Concat.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/Replace.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/search.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/IndexOfLastIndexOF.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/Split.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/trim.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/Substring.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/ValueOf.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/StringsConcatenation/StringBuilderinJS.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/Escaping/Escaping.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/RegExpres.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/MatchMethod.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/replace.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/Split.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/Search.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/Scobi.js" />
+        <option value="$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/Scobi.js" />
       </list>
     </option>
   </component>
@@ -195,10 +225,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-40" />
-    <option name="y" value="30" />
-    <option name="width" value="1775" />
-    <option name="height" value="1050" />
+    <option name="x" value="-182" />
+    <option name="y" value="105" />
+    <option name="width" value="1932" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -214,12 +244,15 @@
             <id>JavaScript</id>
           </State>
           <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
             <id>Probable bugsJavaScript</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>TaskInspection</id>
+            <id>BadExpressionStatementJS</id>
           </State>
         </selected-state>
       </profile-state>
@@ -248,8 +281,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -296,18 +327,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UsingObject" />
+              <option name="myItemId" value="Array" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/HomeWorks/ConditionalStatement/Index.html" />
+    <property name="last_opened_file_path" value="D:/JavaScript" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
@@ -319,6 +352,7 @@
     <property name="JavaScriptLanguageLevel" value="JS_1_8_5" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="last.edited.regexp" value="Inject Language" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -328,26 +362,27 @@
       <recent name="C:\Users\Stanislav\Documents\JavaScriptFundamentals\HomeWorks\OperatorsAndExpresions\scripts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Stanislav\Documents\JavaScriptFundamentals\HomeWorks\ConditionalStatement\DinamicTable" />
-      <recent name="C:\Users\Stanislav\Documents\JavaScriptFundamentals\HomeWorks\Function" />
-      <recent name="C:\Users\Stanislav\Documents\JavaScriptFundamentals\HomeWorks\OperatorsAndExpresions" />
-      <recent name="C:\Users\Stanislav\Documents\JavaScriptFundamentals\HomeWorks\OperatorsAndExpresions\DinamicTableJS" />
+      <recent name="C:\Users\Stanislav\Documents\JavaScriptFundamentals\HomeWorks" />
+      <recent name="C:\Users\Stanislav\Documents\JavaScriptFundamentals\HomeWorks\LectureScripts\RegExpr" />
+      <recent name="C:\Users\Stanislav\Documents\JavaScriptFundamentals\HomeWorks\LectureScripts\ArrayMethods" />
+      <recent name="C:\Users\Stanislav\Documents\JavaScriptFundamentals\OtceneniDOmashni\UsingObjects\Domashno1" />
+      <recent name="C:\Users\Stanislav\Documents\JavaScriptFundamentals\OtceneniDOmashni\ConditionalStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.GroupPeople.js">
-    <configuration default="false" name="RemoveElement.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="RemoveElement.js" working-dir="$PROJECT_DIR$/HomeWorks/UsingObject">
+  <component name="RunManager" selected="Node.js.Scobi.js">
+    <configuration default="false" name="RegExpres.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="RegExpres.js" working-dir="$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr">
       <method />
     </configuration>
-    <configuration default="false" name="HasProperty.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="HasProperty.js" working-dir="$PROJECT_DIR$/HomeWorks/UsingObject">
+    <configuration default="false" name="replace.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="replace.js" working-dir="$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr">
       <method />
     </configuration>
-    <configuration default="false" name="YoungestPerson.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="YoungestPerson.js" working-dir="$PROJECT_DIR$/HomeWorks/UsingObject">
+    <configuration default="false" name="Split.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="Split.js" working-dir="$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr">
       <method />
     </configuration>
-    <configuration default="false" name="deepCopy.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="deepCopy.js" working-dir="$PROJECT_DIR$/HomeWorks/UsingObject">
+    <configuration default="false" name="Search.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="Search.js" working-dir="$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr">
       <method />
     </configuration>
-    <configuration default="false" name="GroupPeople.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="GroupPeople.js" working-dir="$PROJECT_DIR$/HomeWorks/UsingObject">
+    <configuration default="false" name="Scobi.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="Scobi.js" working-dir="$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -421,19 +456,19 @@
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Operators" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.text.js" />
       <item index="3" class="java.lang.String" itemvalue="Node.js.http_code.jquery.com_jquery-2.0.0.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.RemoveElement.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.HasProperty.js" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.YoungestPerson.js" />
-      <item index="7" class="java.lang.String" itemvalue="Node.js.deepCopy.js" />
-      <item index="8" class="java.lang.String" itemvalue="Node.js.GroupPeople.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.RegExpres.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.replace.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.Split.js" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.Search.js" />
+      <item index="8" class="java.lang.String" itemvalue="Node.js.Scobi.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.GroupPeople.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.deepCopy.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.YoungestPerson.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.HasProperty.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.RemoveElement.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.Scobi.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.Search.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.Split.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.replace.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.RegExpres.js" />
       </list>
     </recent_temporary>
   </component>
@@ -460,26 +495,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-40" y="30" width="1775" height="1050" extended-state="1" />
+    <frame x="-182" y="105" width="1932" height="1066" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13932067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37750793" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32855567" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.047085203" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2498618" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20594713" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="11" y="428" width="1894" height="254" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35903084" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32929516" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20594713" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="11" y="428" width="1894" height="254" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -510,391 +545,368 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HomeWorks/OperatorsAndExpresions/DinamicTableJS/thirdDigit.js">
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/Functions/Domashno3/06.Functions/01.EnglishDigit/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19736843">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state vertical-scroll-proportion="2.3076923">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/OperatorsAndExpresions/DinamicTableJS/DinamicTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/OperatorsAndExpresions/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75308645">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/OperatorsAndExpresions/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9285714">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/Function/DinamicTableJS/DinamicTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31827956">
-          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/Function/DinamicTableJS/ReversNumber.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38961038">
-          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/Function/DinamicTableJS/occeruncOfWord.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48701298">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/Function/DinamicTableJS/LastDigitAsWord.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/Function/EnglishDigit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/Function/DinamicTableJS/CoundDiv.js">
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/UsingObjects/Domashno1/JS Using objects/Problem 1. Planar coordinates.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/Function/DinamicTableJS/count.js">
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/UsingObjects/Domashno1/JS Using objects/Problem 2. Remove elements.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/Function/DinamicTableJS/isBigerThenNabour.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/Function/DinamicTableJS/firstLarger.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript-Fundamentals-master/08. Functions/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19172932">
-          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/Function/styles/div.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6797153">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/Loop/Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/Loop/NotDevisibalBy3and7.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/Loop/MinMaxOf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/Loop/lexicographycaly.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript-Fundamentals-master/06. Loops/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.586206">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/Function/NumberOfElements.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64285713">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/Function/Reversenumber.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26785713">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/Loop/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71428573">
-          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/Function/OccurrenceOfWord.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7692308">
-          <caret line="1" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/ConditionalStatement/DinamicTable/DinamicTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16666667">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/ConditionalStatement/script/ExchangeIfGrater.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5833333">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/TelerikAcademy-master/Homeworks/JS-FUNDAMENTALS/Conditional-Statements/numberSign.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/ConditionalStatement/script/MultiplicationSign.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/TelerikAcademy-master/Homeworks/JS-FUNDAMENTALS/Conditional-Statements/greatesOfFiveNumbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.25">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript-Fundamentals-master/05. Conditional Statements/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/UsingObjects/Domashno1/JS Using objects/Problem 3. Deep copy.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="31.034483">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/ConditionalStatement/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46728972">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/ConditionalStatement/script/bigestOfTree.js">
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/UsingObjects/Domashno1/JS Using objects/Problem 4. Has property.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript-Fundamentals-master/07. Arrays/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/UsingObjects/Domashno1/JS Using objects/Problem 5. Youngest person.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.137931">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/UsingObjects/Domashno1/JS Using objects/Problem 6..js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/UsingObjects/Domashno2/JSHomeWork07/Problem_01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/UsingObjects/Domashno2/JSHomeWork07/Problem_02.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/UsingObjects/Domashno2/JSHomeWork07/Problem_03.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/UsingObjects/Domashno2/JSHomeWork07/Problem_04.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/UsingObjects/Domashno2/JSHomeWork07/Problem_05.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/UsingObjects/Domashno2/JSHomeWork07/Problem_06.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/UsingObjects/Domashno3/Using-Objects/deepCopy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/UsingObjects/Domashno3/Using-Objects/groupObjects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/UsingObjects/Domashno3/Using-Objects/objectContainProperty.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/UsingObjects/Domashno3/Using-Objects/removeElementFromArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/UsingObjects/Domashno3/Using-Objects/shapes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/UsingObjects/Domashno3/Using-Objects/sortPeople.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/MethodsArray/Domashno1/09. ArrayMethods/ArrayMethods/01-06.MakePerson/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/MethodsArray/Domashno1/09. ArrayMethods/ArrayMethods/01-06.MakePerson/script/exercise-solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/MethodsArray/Domashno1/09. ArrayMethods/ArrayMethods/js-console-script/js-console.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/MethodsArray/Domashno2/JS-ArrayMethods/ArrayMethods/scripts/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="7" selection-start-line="51" selection-start-column="0" selection-end-line="53" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/MethodsArray/Domashno3/array-methods/homework.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5384616">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OtceneniDOmashni/MethodsArray/Domashno3/array-methods/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/Indexator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/Concat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/Replace.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/IndexOfLastIndexOF.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/Split.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/trim.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/ArrayMethods/ArrayMap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/ArrayMethods/chaining.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/ArrayMethods/Fill.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/ArrayMethods/finde.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/ArrayMethods/foreach.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/ArrayMethods/functionOfFunction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/ArrayMethods/isPrime.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/ArrayMethods/reduce_Filter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/ArrayMethods/sort.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/Substring.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/StringMethods/ValueOf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/StringsConcatenation/StringBuilderinJS.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/Escaping/Escaping.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/RegExpres.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/MatchMethod.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/Split.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/Array/IncreasArray.js">
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/replace.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/TelerikAcademy-master/Homeworks/JS-FUNDAMENTALS/Arrays/arrayOfProducts.js">
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/Scobi.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.27075812">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript-Fundamentals-master/09. Using Objects/1. objects-overview.html">
+    <entry file="file://$PROJECT_DIR$/HomeWorks/LectureScripts/RegExpr/Search.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.5384616">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript-Fundamentals-master/09. Using Objects/6. json-build-function.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4615384">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/UsingObject/countWords.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/UsingObject/OlanarCoordinate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/UsingObject/RemoveElement.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/UsingObject/HasProperty.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/TelerikAcademy-master/Homeworks/JS-FUNDAMENTALS/Using-Objects/objectContainProperty.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/TelerikAcademy-master/Homeworks/JS-FUNDAMENTALS/Using-Objects/removeElementFromArray.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/TelerikAcademy-master/Homeworks/JS-FUNDAMENTALS/Using-Objects/shapes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/TelerikAcademy-master/Homeworks/JS-FUNDAMENTALS/Using-Objects/sortPeople.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/UsingObject/YoungestPerson.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript-Fundamentals-master/09. Using Objects/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.188">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/TelerikAcademy-master/Homeworks/JS-FUNDAMENTALS/Using-Objects/deepCopy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5338078">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/UsingObject/deepCopy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/TelerikAcademy-master/Homeworks/JS-FUNDAMENTALS/Using-Objects/groupObjects.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5246548">
-          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks/UsingObject/GroupPeople.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4733728">
-          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.13651878">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
